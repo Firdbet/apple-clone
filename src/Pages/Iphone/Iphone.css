@@ -1,0 +1,22 @@
+.internal-wrapper-container {
+    padding: 50px 0;
+}
+.title-wraper {
+    font-size: 24px;
+    font-weight: 700;
+}
+.brief-description {
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+.links-wrapper ul{
+list-style: none;
+}
+
+.links-wrapper ul li a {
+    text-decoration: none;
+}
+
+.links-wrapper ul li a:hover {
+    text-decoration: underline;
+}

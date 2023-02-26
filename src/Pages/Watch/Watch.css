@@ -1,0 +1,43 @@
+.watch_wrapper {
+    text-align: center;
+}
+.first_watch {
+background-color: #F5F5F7;
+padding-top: 70px;
+font-size: 1.6em;
+}
+.price_des {
+    font-weight: 700;
+    padding: 10px 0;
+}
+.first_img {
+    min-width: 100%;
+}
+
+.sec_th_watch {
+    padding: 10% 15%;
+    font-size: 2em;
+    min-height: 500px;
+}
+
+.second_watch {
+    background-color: black;
+    color: #fff;
+}
+.third_watch {
+    background-color: #F5F5F7;
+}
+
+.fourth_watch {
+    padding: 10%;
+}
+.watch_des {
+    padding-top: 20px;
+}
+.btn {
+    border-radius: 40% !important;
+}
+.ipad_section {
+   font-size: 2em;
+   font-weight: 700;
+}
